@@ -1,5 +1,5 @@
 # OS Generated Files
-.DS_Store
+*.DS_Store
 
-# Misc.
-.ipynb_checkpoints
+# Anaconda files
+*.ipynb_checkpoints
