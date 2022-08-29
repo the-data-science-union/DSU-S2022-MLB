@@ -9,3 +9,19 @@ into analyzing hitting, pitching, and fielding metrics.
 If you have any questions, please contact: vincentjfront@gmail.com
 
 Sources:
+
+* "Major League Baseball Team Standard Batting."  Baseball Reference, https://www.baseball-reference.com/leagues/majors/2022-standard-batting.shtml. Used the 2000–2022 versions of this data table.
+ 
+* "Major League Baseball Team Advanced Batting." Baseball Reference, https://www.baseball-reference.com/leagues/majors/2022-advanced-batting.shtml. Used the 2000–2022 versions of this data table.
+
+* "Major League Baseball Team Sabermetric Batting." Baseball Reference, https://www.baseball-reference.com/leagues/majors/2022-sabermetric-batting.shtml. Used the 2000–2022 versions of this data table.
+
+* "Major League Baseball Team Advanced Pitching." Baseball Reference, https://www.baseball-reference.com/leagues/majors/2022-advanced-pitching.shtml. Used the 2000–2022 versions of this data table.
+
+* "Major League Baseball Team Starting Pitching." Baseball Reference, https://www.baseball-reference.com/leagues/majors/2022-starter-pitching.shtml. Used the 2000–2022 versions of this data table.
+
+* "Major League Baseball Team Relief Pitching." Baseball Reference, https://www.baseball-reference.com/leagues/majors/2022-reliever-pitching.shtml. Used the 2000–2022 versions of this data table.
+
+* "Major League Baseball Team Standard Fielding." Baseball Reference, https://www.baseball-reference.com/leagues/majors/2022-standard-fielding.shtml. Used the 2000–2022 versions of this data table.
+
+* "Major League Baseball Team Outfield Fielding." Baseball Reference, https://www.baseball-reference.com/leagues/majors/2022-specialpos_of-fielding.shtml. Used the 2000–2022 versions of this data table.
